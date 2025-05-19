@@ -9,12 +9,12 @@
 ---
 
 ## 📑 Tabla de Contenidos
-- [¿Qué hicimos?](#qué-hicimos)
-- [¿Cómo funciona el proyecto?](#cómo-funciona-el-proyecto)
-- [Requisitos](#requisitos)
-- [Ejecución del script](#ejecución-del-script)
-- [Autores](#autores)
-- [¡Gracias por visitar el proyecto!](#gracias-por-visitar-el-proyecto)
+- [¿Qué hicimos?](#-qué-hicimos)
+- [¿Cómo funciona el proyecto?](#-cómo-funciona-el-proyecto)
+- [Requisitos](#-requisitos)
+- [Ejecución del script](#-ejecución-del-script)
+- [Autores](#-autores)
+- [¡Gracias por visitar el proyecto!](#-gracias-por-visitar-el-proyecto)
 
 ---
 
